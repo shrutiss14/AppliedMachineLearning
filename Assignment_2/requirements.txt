@@ -1,0 +1,6 @@
+dvc[gdrive]
+pandas
+scikit-learn
+nltk
+matplotlib
+mlflow

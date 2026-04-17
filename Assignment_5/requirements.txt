@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+torch
+torchvision
+torchaudio
+torchtext
+--extra-index-url https://download.pytorch.org/whl/cu129
+pillow
